@@ -228,7 +228,7 @@ def print_model_summary(
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Train a video classification model on HMDB51 dataset.')
-    parser.add_argument('frames-dir', type=str, 
+    parser.add_argument('frames_dir', type=str, 
                         help='Directory containing video files')
     parser.add_argument('--annotations-dir', type=str, default="data/hmdb51/testTrainMulti_601030_splits",
                         help='Directory containing annotation files')

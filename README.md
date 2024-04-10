@@ -102,7 +102,7 @@ Go and examine any `<action_label>_test_split1.txt` file. As you'll see, there's
         Train a video classification model on HMDB51 dataset.
 
         positional arguments:
-        frames-dir            Directory containing video files
+        frames_dir            Directory containing video files
 
         options:
         -h, --help            show this help message and exit
