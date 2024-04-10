@@ -4,7 +4,7 @@
 
 0. Before downloading any data, install the `unrar` and `ffmpeg` packages with your package manager. In Debian-based distros (e.g., Ubuntu), that is done with the following command: `sudo apt install unrar ffmpeg`.
 
-1. Now, download the videos from the authors' website and decompress it with `unrar`:
+1. Now, download the videos from the authors' website and decompress them with `unrar`:
 
     ```bash
         # Download the compressed dataset
@@ -32,18 +32,18 @@ You should see 51 folders, one for each action category (`brush_hair`, `cartwhee
         |____ ...
     ```
 
-For the later training, we'll need the videos converted into directories of frames. This way we don't have to decompress the videos repeatedly every time we want to sample a clip from a video. That'd be superslow.
+For the later training, we'll need the videos converted to frames. This way we don't have to decompress the videos repeatedly every time we want to sample a clip from a video in batch-training.
 
 ## Data preparation
 
-We will extract the frames in a separate directory, namely `frames`. Remember you need `ffmpeg` installed. Then:
+We will extract the frames in a separate directory, namely `frames`. Then:
 
     ```bash
     # Make sure you are in the same directory that contains the videos/ folder
     $ find videos -name "*.avi" -print0 | xargs -0 -I {} sh -c 'original="{}"; modified=$(echo "$original" | sed -e "s|videos|frames|" | sed -e "s|\.[^.]*$||"); mkdir -p $modified; ffmpeg -i $original -loglevel error $modified/frame%05d.jpg'
     ```
     
-If run correctly, such long command will create the `frames/` directory with the same structure as `videos/`, but replacing each video file by a directory containing the frames (in .jpg format). It should take from 30' to an hour to extract the frames. 
+If run correctly, such long command will create the `frames/` directory with the same structure as `videos/`, but replacing each video file by a directory containing the frames (in .jpg format). It might take from 30' to an hour to extract the frames. 
 
 Graphically:
 
@@ -69,13 +69,13 @@ Graphically:
 
 ## Custom groundtruth
 
-Do not download and use the groundtruth annotations (i.e., action categories) from the authors' webpage, as we will be a custom version of them that you find in `data/hmbd51/testTrainMulti_601030_splits`.
+Do not download and use the groundtruth annotations from the authors' webpage, as we will be a custom version of them that you find in `data/hmbd51/testTrainMulti_601030_splits`.
 
-Differently from the original groundtruth, we will be reserving a fixed set of the training videos for validation. Therefore, instead of being 70% training and 30% testing data, we will do 60% training, 10% validation, and 30% testing.
+Differently from the original groundtruth, we will reserve a fixed set of training videos for validation. Therefore, instead of being 70% training and 30% testing data, we will do 60% training, 10% validation, and 30% testing.
 
-Take into account that HMDB51 was thought to be evaluated in 3-fold cross validation. This means having 3 different (training and test) partitions, namely split1, split2, and split3. If you check the provided annotations you'll see a file per action category and split (i.e, `<action_label>_test_split<1, 2, or 3>.txt`). We will focus on split1 only (ignore split2 and split3 files).
+Take into account also that HMDB51 was thought to be evaluated in 3-fold cross validation. This means having 3 different train-test partitions, namely split1, split2, and split3. If you check the provided annotations you'll see a file per action category and split (i.e, `<action_label>_test_split<1, 2, or 3>.txt`). However, we will focus on split1 only (ignore split2 and split3 files).
 
-If you examine the different `<action_label>_test_split1.txt` files, you'll see a line per video with the video name followed by an integer that represents the partition according to split1: 1 indicating this is a training video, 2 for testing, and 3 for validation.
+Go and examine any `<action_label>_test_split1.txt` file. As you'll see, there's a line per video with the video name followed by an integer that represents the train-test-validation partition for this particular split. Concretely, 1 indicates this is a training video, 2 for testing, and 3 for validation.
 
 ## Run the baseline code
 
