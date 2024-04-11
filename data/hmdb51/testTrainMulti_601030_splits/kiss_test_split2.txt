@@ -61,7 +61,6 @@ Moviekissmontage_kiss_h_cm_np2_le_goo_0.avi 2
 Moviekissmontage_kiss_h_cm_np2_ri_goo_6.avi 2 
 Moviekissmontage_kiss_u_cm_np2_fr_goo_5.avi 2 
 Moviekissmontage_kiss_u_cm_np2_fr_med_1.avi 2 
-Moviekissmontage_kiss_u_cm_np2_le_goo_2.avi 0 
 Moviekissmontage_kiss_u_cm_np2_le_med_3.avi 2 
 Moviekissmontage_kiss_u_cm_np2_le_med_7.avi 2 
 Pirates_7_kiss_h_nm_np2_le_med_4.avi 2 
@@ -99,4 +98,3 @@ The_Matrix_Revolutions_5_kiss_h_nm_np2_le_med_0.avi 3
 Two_Towers_4_kiss_h_nm_np2_ri_goo_0.avi 2 
 kiss_mix_kiss_f_cm_np2_le_med_0.avi 1 
 kiss_mix_kiss_f_cm_np2_le_med_1.avi 1 
-veoh_harold_and_kumar_kiss_h_nm_np2_fr_goo_20.avi 0 

@@ -27,11 +27,9 @@ Bodenturnen_im_sportunterricht_flic_flac_f_cm_np1_le_med_3.avi 1
 Cati_Flic_Flac_flic_flac_f_cm_np1_ri_med_0.avi 2 
 Cati_Flic_Flac_flic_flac_f_cm_np1_ri_med_1.avi 2 
 Cati_Flic_Flac_flic_flac_f_cm_np1_ri_med_2.avi 2 
-Ella_Rondat_Flic-Flac_flic_flac_f_cm_np1_ri_med_0.avi 0 
 Estrela_mini_kelly_flic_flac_f_cm_np1_le_med_1.avi 1 
 Flic-Flac_-_Illya_Kun_flic_flac_f_cm_np1_le_med_0.avi 1 
 Flic-Flac_-_Illya_Kun_flic_flac_f_cm_np1_le_med_1.avi 1 
-Flic_Flacs_flic_flac_f_cm_np1_ba_med_0.avi 0 
 Flic_Flacs_flic_flac_f_cm_np1_ba_med_1.avi 2 
 Flic_Flacs_flic_flac_f_cm_np1_ri_med_2.avi 2 
 Flic_Flacs_flic_flac_f_cm_np1_ri_med_3.avi 2 
@@ -67,9 +65,7 @@ Kristina_Goryunova_-_Floor_Exercise_-_2009_Tyson_American_Cu_flic_flac_f_cm_np1_
 Lynn_en_Chelsea_Turnen_flic_flac_f_cm_np2_ri_med_1.avi 1 
 Maikel_Flic_Flac_flic_flac_f_cm_np1_ri_med_0.avi 1 
 Maikel_Flic_Flac_flic_flac_f_cm_np1_ri_med_1.avi 1 
-Maikel_Flic_Flac_flic_flac_f_cm_np1_ri_med_2.avi 0 
 Meto_Demo_BHS__Flick_Flack_flic_flac_f_cm_np1_ba_med_0.avi 2 
-Meto_Demo_BHS__Flick_Flack_flic_flac_f_cm_np1_ba_med_1.avi 0 
 Meto_Demo_BHS__Flick_Flack_flic_flac_f_cm_np1_ba_med_2.avi 2 
 Meto_Demo_BHS__Flick_Flack_flic_flac_f_cm_np1_le_med_6.avi 2 
 Meto_Demo_BHS__Flick_Flack_flic_flac_f_cm_np1_le_med_7.avi 2 
@@ -87,7 +83,6 @@ Round-off_flick_1_flic_flac_f_cm_np1_ri_med_0.avi 2
 Round-off_flick_flic_flac_f_cm_np1_ri_bad_0.avi 1 
 Roundoff_Flick__flic_flac_f_cm_np1_fr_bad_0.avi 1 
 Roundoff_Flick_flic_flac_f_cm_np1_fr_bad_0.avi 2 
-Rush_Hour_4_Turnk_r_flic_flac_f_cm_np1_ri_med_4.avi 0 
 Rush_Hour_4_Turnk_r_flic_flac_f_cm_np1_ri_med_5.avi 2 
 Simon_Bodenturnen_flic_flac_f_cm_np1_fr_med_3.avi 1 
 Turnen_Training_flick_flack_salto_gymnastics_backhandspring_backtuck_flic_flac_f_cm_np1_fr_bad_2.avi 1 
@@ -96,7 +91,6 @@ Turnen_Training_flick_flack_salto_gymnastics_backhandspring_backtuck_flic_flac_f
 Turnen_Training_flick_flack_salto_gymnastics_backhandspring_backtuck_flic_flac_f_cm_np1_ri_bad_1.avi 1 
 Turnen_Training_flick_flack_salto_gymnastics_backhandspring_backtuck_flic_flac_f_cm_np1_ri_bad_4.avi 1 
 anna_turnen_flic_flac_f_cm_np1_ri_bad_1.avi 1 
-boden__bung_gaurunde_flic_flac_f_cm_np1_ri_med_1.avi 0 
 flic_flac_mortal_flic_flac_f_cm_np1_ba_bad_0.avi 2 
 me_turnen_flic_flac_f_cm_np1_ri_med_0.avi 1 
 mortero_rondo_flic_flac_flic_flac_f_cm_np1_ri_bad_0.avi 1 
@@ -104,4 +98,3 @@ turnles!!_flic_flac_f_cm_np1_le_med_2.avi 2
 turnles!!_flic_flac_f_cm_np1_le_med_5.avi 2 
 turnles!!_flic_flac_f_cm_np1_le_med_7.avi 2 
 turnles!!_flic_flac_f_cm_np1_le_med_8.avi 2 
-turnles!!_flic_flac_f_cm_np1_le_med_9.avi 0 

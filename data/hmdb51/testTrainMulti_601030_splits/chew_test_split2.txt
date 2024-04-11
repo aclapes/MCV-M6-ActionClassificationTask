@@ -6,7 +6,6 @@ Big_League_Chew_chew_h_nm_np1_fr_goo_0.avi 3
 Big_League_Chew_chew_h_nm_np1_fr_goo_1.avi 3 
 Big_League_Chew_chew_h_nm_np1_fr_goo_2.avi 3 
 Blowing_Bubbles!_chew_h_nm_np1_fr_goo_2.avi 2 
-Blowing_Bubbles!_chew_h_nm_np1_fr_med_0.avi 0 
 Blowing_Bubbles!_chew_h_nm_np1_fr_med_1.avi 2 
 Bubble_Blowing_Bubble_Gum_chew_h_nm_np1_fr_bad_0.avi 2 
 Bubble_Blowing_Bubble_Gum_chew_h_nm_np1_fr_bad_1.avi 2 
@@ -21,7 +20,6 @@ Bubble_gum!_XD_chew_h_cm_np1_fr_med_1.avi 1
 Bubblegum_Bubbles_chew_h_cm_np1_fr_bad_0.avi 1 
 Bubblegum_Bubbles_chew_h_cm_np1_fr_bad_1.avi 1 
 Bubblegum_Bubbles_chew_h_cm_np1_fr_bad_2.avi 1 
-Bubblegum_Wigger_chew_h_nm_np1_fr_goo_0.avi 0 
 Bubblegum_Wigger_chew_h_nm_np1_fr_goo_1.avi 2 
 Bubblegum_Wigger_chew_h_nm_np1_fr_med_2.avi 2 
 Chewing_Gum_chew_h_nm_np1_fr_med_0.avi 3 
@@ -35,7 +33,6 @@ Dubble_bubble_compilation_-_all_on_8_pieces_chew_h_nm_np1_fr_med_2.avi 1
 Duble_Bubble_Gum_chew_h_cm_np1_fr_bad_0.avi 1 
 Duble_Bubble_Gum_chew_h_cm_np1_fr_bad_1.avi 1 
 Duble_Bubble_Gum_chew_h_cm_np1_fr_bad_2.avi 1 
-Fun_Chewing_Gum!_chew_h_nm_np1_fr_med_0.avi 0 
 Fun_Chewing_Gum!_chew_h_nm_np1_fr_med_1.avi 1 
 Fun_Chewing_Gum!_chew_h_nm_np1_fr_med_2.avi 1 
 Fun_Chewing_Gum!_chew_h_nm_np2_fr_med_3.avi 1 
@@ -47,10 +44,8 @@ How_to_Do_Basic_Mime_Skills_-_How_to_Mime_Chewing_Gum_chew_h_cm_np1_fr_med_0.avi
 How_to_Do_Basic_Mime_Skills_-_How_to_Mime_Chewing_Gum_chew_h_cm_np1_fr_med_1.avi 1 
 How_to_Do_Basic_Mime_Skills_-_How_to_Mime_Chewing_Gum_chew_h_cm_np1_fr_med_2.avi 1 
 Kaugummiblase_1_chew_h_cm_np1_le_med_0.avi 2 
-Kaugummiblase_1_chew_h_cm_np1_le_med_1.avi 0 
 Kaugummiblase_1_chew_h_cm_np1_le_med_2.avi 2 
 LittleChildren_chew_h_nm_np1_fr_goo_7.avi 1 
-Loud_Chewing_chew_u_cm_np1_fr_med_0.avi 0 
 Loud_Chewing_chew_u_cm_np1_fr_med_1.avi 1 
 Loud_Chewing_chew_u_cm_np1_fr_med_2.avi 1 
 Massive_Bubble_Gum_Bubble_chew_h_nm_np1_le_goo_0.avi 1 
@@ -60,7 +55,6 @@ Me_chewing_hubba_bubba_bubble_gum_chew_h_nm_np1_fr_bad_0.avi 1
 Me_chewing_hubba_bubba_bubble_gum_chew_h_nm_np1_fr_bad_1.avi 1 
 Me_chewing_hubba_bubba_bubble_gum_chew_h_nm_np1_fr_bad_2.avi 1 
 Mr__Bubblegum_chew_h_nm_np1_fr_med_0.avi 2 
-Mr__Bubblegum_chew_h_nm_np1_fr_med_1.avi 0 
 Mr__Bubblegum_chew_h_nm_np1_fr_med_2.avi 2 
 Scott_Can_t_Make_His_Bubblegum_Pop_chew_h_nm_np1_fr_med_0.avi 2 
 Scott_Can_t_Make_His_Bubblegum_Pop_chew_h_nm_np1_fr_med_1.avi 2 
@@ -80,10 +74,8 @@ TheBoondockSaints_chew_u_cm_np1_le_med_35.avi 1
 TheBoondockSaints_chew_u_nm_np1_fr_med_46.avi 1 
 TheLittleShopofHorrors_chew_u_nm_np1_fr_med_8.avi 1 
 Vid_Request-_Me_Blowing_Bubbles_-P_chew_h_nm_np1_fr_med_0.avi 1 
-Vid_Request-_Me_Blowing_Bubbles_-P_chew_h_nm_np1_fr_med_1.avi 0 
 Vid_Request-_Me_Blowing_Bubbles_-P_chew_h_nm_np1_fr_med_2.avi 1 
 Wanda_Su_and_niece__T__blowing_bubbles_chew_u_nm_np2_fr_med_0.avi 2 
-Wanda_Su_and_niece__T__blowing_bubbles_chew_u_nm_np2_fr_med_1.avi 0 
 Wanda_Su_and_niece__T__blowing_bubbles_chew_u_nm_np2_fr_med_2.avi 2 
 Wanda_Su_and_niece__T__blowing_bubbles_chew_u_nm_np2_le_med_3.avi 2 
 WeddingCrashers_chew_h_nm_np1_fr_goo_6.avi 1 
@@ -98,7 +90,6 @@ chewing_gum_1_chew_h_nm_np1_fr_goo_2.avi 1
 chewing_gum_2_chew_h_cm_np1_fr_med_0.avi 2 
 chewing_gum_2_chew_h_cm_np1_fr_med_1.avi 2 
 cotton_candy_bubble_gum_chew_h_nm_np1_fr_med_0.avi 1 
-cotton_candy_bubble_gum_chew_h_nm_np1_fr_med_1.avi 0 
 cotton_candy_bubble_gum_chew_h_nm_np1_fr_med_2.avi 1 
 lol_im_so_weird___BLOWIN_BUBBLE_GUM__oops_i_burped_at_the_end_my_bad_lol_chew_h_cm_np1_fr_med_0.avi 1 
 lol_im_so_weird___BLOWIN_BUBBLE_GUM__oops_i_burped_at_the_end_my_bad_lol_chew_h_cm_np1_le_med_1.avi 1 

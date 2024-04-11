@@ -34,8 +34,6 @@
 46_Pull_ups_pullup_f_cm_np1_fr_bad_0.avi 2 
 46_Pull_ups_pullup_f_cm_np1_fr_bad_1.avi 2 
 46_Pull_ups_pullup_f_cm_np1_fr_bad_2.avi 2 
-50_pull_ups_made_in_germany_pullup_f_nm_np1_le_med_0.avi 0 
-50_pull_ups_made_in_germany_pullup_f_nm_np1_le_med_1.avi 0 
 50_pull_ups_made_in_germany_pullup_f_nm_np1_le_med_2.avi 2 
 A_HOT_Marine_Doing_Chinups_pullup_u_cm_np1_le_med_0.avi 1 
 A_HOT_Marine_Doing_Chinups_pullup_u_cm_np1_le_med_1.avi 1 
@@ -56,7 +54,6 @@ Girl_does_12_pull-ups_pullup_u_cm_np1_ba_med_1.avi 2
 Girl_does_12_pull-ups_pullup_u_cm_np1_ba_med_2.avi 2 
 How_to_do_pull-ups_Chin_ups_pullup_u_cm_np1_fr_bad_0.avi 1 
 How_to_do_pull-ups_Chin_ups_pullup_u_cm_np1_fr_bad_1.avi 1 
-How_to_do_pull-ups_Chin_ups_pullup_u_cm_np1_fr_bad_2.avi 0 
 Konstantinovs_55_pullups_pullup_u_cm_np1_ri_med_0.avi 1 
 Konstantinovs_55_pullups_pullup_u_cm_np1_ri_med_1.avi 1 
 Konstantinovs_55_pullups_pullup_u_cm_np1_ri_med_2.avi 1 
@@ -96,7 +93,6 @@ Super_Training_Pull_Ups_pullup_f_cm_np1_ba_med_2.avi 1
 girl_pull_ups_fitness_exercise_pullups_pullup_f_cm_np1_fr_med_0.avi 1 
 girl_pull_ups_fitness_exercise_pullups_pullup_f_cm_np1_fr_med_1.avi 1 
 girl_pull_ups_fitness_exercise_pullups_pullup_f_cm_np1_fr_med_2.avi 1 
-pull_ups_pullup_u_nm_np1_ba_med_0.avi 0 
 pull_ups_pullup_u_nm_np1_ba_med_1.avi 1 
 pull_ups_pullup_u_nm_np1_ba_med_2.avi 1 
 pull_ups_pullup_u_nm_np1_fr_med_3.avi 1 

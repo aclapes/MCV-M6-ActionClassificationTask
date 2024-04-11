@@ -1,4 +1,3 @@
-9_Iron_From_160_Yards_golf_f_cm_np1_ri_goo_0.avi 0 
 Adam_Scott_golf_f_cm_np1_le_goo_0.avi 3 
 Angel_Cabrera_s_Golf_Swing_golf_f_cm_np1_ri_med_0.avi 3 
 Angry_Female_Golfer_golf_f_cm_np1_fr_bad_0.avi 3 
@@ -7,14 +6,12 @@ Anna_Rawson_LPGA_golf_f_nm_np1_ri_goo_0.avi 3
 Anna_Rawson_Lesson_side_by_side_golf_f_nm_np2_ba_goo_0.avi 3 
 Anthony_Kim_s_drive_hits_spectator_s_butt_-_that_had_to_sting!_golf_f_cm_np1_ri_goo_0.avi 2 
 Ariya_Swing_golf_f_cm_np1_fr_bad_0.avi 2 
-Ben_Hogan_Swing_golf_f_nm_np1_ri_med_0.avi 0 
 Ben_Hogan_Swing_golf_f_nm_np1_ri_med_1.avi 2 
 Ben_Hogan_Swing_golf_f_nm_np1_ri_med_2.avi 2 
 Camilo_Villegas_Tee_Shot_golf_f_cm_np1_fr_goo_0.avi 3 
 Casie_Cathrea_golf_f_nm_np1_fr_med_0.avi 3 
 Charles_Barkley_Golf_Swing_golf_f_cm_np1_ba_med_0.avi 3 
 Charles_Barkley_Golfing_golf_f_cm_np1_fr_med_0.avi 2 
-Cobra_Golf_-_Camilo_Villegas_golf_f_cm_np1_ri_goo_0.avi 0 
 Cobra_Golf_-_Camilo_Villegas_golf_f_cm_np1_ri_goo_1.avi 2 
 Davis_Love_III__Beautiful_swing!_golf_f_cm_np1_ri_med_0.avi 2 
 Dr__Feels_Golf_Wedge_Secret_golf_f_cm_np1_ri_med_0.avi 3 
@@ -100,6 +97,4 @@ Tiger_Woods_smokes_a_drive_golf_f_cm_np1_ri_med_0.avi 1
 bri_vega_golf_f_cm_np1_fr_med_0.avi 1 
 golf_golf_f_nm_np1_ri_goo_0.avi 2 
 golf_golf_f_nm_np1_ri_goo_1.avi 2 
-golf_golf_f_nm_np1_ri_goo_2.avi 0 
 miyazato_ai_9_iron_golf_f_cm_np1_ri_med_0.avi 1 
-rory_hie_high_school__now_USC_golf_f_nm_np1_ri_goo_0.avi 0 

@@ -29,7 +29,6 @@ Chinese_tea_ceremony_pour_u_cm_np1_fr_goo_1.avi 1
 Chinese_tea_ceremony_pour_u_cm_np1_fr_goo_2.avi 1 
 Cocktail_Pouring_pour_u_nm_np2_ri_med_0.avi 1 
 Cuba_Libre_-_Just_do_it_with_Drinkadrink_com_pour_u_nm_np1_fr_goo_0.avi 1 
-Drink_#18_-_Apple_martini_pour_u_nm_np1_fr_goo_0.avi 0 
 Drink_#18_-_Apple_martini_pour_u_nm_np1_fr_goo_1.avi 2 
 Drink_#18_-_Apple_martini_pour_u_nm_np1_fr_goo_2.avi 2 
 Flaming_B52_Shot_Drink_pour_u_nm_np1_fr_med_0.avi 1 
@@ -41,7 +40,6 @@ Gaiwan_tea_ceremony_pour_u_cm_np1_fr_med_2.avi 1
 Highball_Cocktail_Drink_Recipe_pour_u_nm_np1_fr_med_0.avi 1 
 How_To_Pour_Ice_Tea_pour_u_nm_np1_fr_med_0.avi 1 
 How_To_Pour_Ice_Tea_pour_u_nm_np1_fr_med_1.avi 1 
-How_To_Pour_Ice_Tea_pour_u_nm_np1_fr_med_2.avi 0 
 How_To_Pour_a_Franziskaner_pour_u_cm_np1_fr_med_0.avi 2 
 How_To_Pour_a_Franziskaner_pour_u_cm_np1_fr_med_1.avi 2 
 How_to_Build_a_Cocktail_pour_u_nm_np1_fr_med_0.avi 2 
@@ -62,15 +60,12 @@ Kamikaze_Martini_Coctail_pour_u_nm_np1_fr_med_2.avi 1
 Katie_teaching_how_to_pour_wine_pour_u_cm_np1_fr_med_0.avi 1 
 Mixing_Popular_Rum_Drinks_-_Making_a_Flaming_Zombie_Cocktail_pour_u_nm_np1_fr_goo_0.avi 2 
 Mixing_Popular_Rum_Drinks_-_Making_a_Flaming_Zombie_Cocktail_pour_u_nm_np1_fr_goo_1.avi 2 
-Mixing_Popular_Rum_Drinks_-_Making_a_Flaming_Zombie_Cocktail_pour_u_nm_np1_fr_goo_2.avi 0 
 My_First_Hefeweizen_pour_u_nm_np1_ri_med_0.avi 1 
 My_First_Hefeweizen_pour_u_nm_np1_ri_med_1.avi 1 
 My_First_Hefeweizen_pour_u_nm_np1_ri_med_2.avi 1 
 New_Orleans__best_cocktails-_Hot_Buttered_Rum_pour_u_nm_np1_fr_med_0.avi 1 
 New_Orleans__best_cocktails-_Hot_Buttered_Rum_pour_u_nm_np1_fr_med_1.avi 1 
-New_Orleans__best_cocktails-_Hot_Buttered_Rum_pour_u_nm_np1_fr_med_2.avi 0 
 Pomegranate_Martini_Cocktail_Recipes_pour_u_cm_np1_fr_med_0.avi 1 
-Pomegranate_Martini_Cocktail_Recipes_pour_u_cm_np1_fr_med_1.avi 0 
 Pomegranate_Martini_Cocktail_Recipes_pour_u_cm_np1_fr_med_2.avi 1 
 Riedel_-_How_to_Pour_a_Glass_of_Wine_pour_u_nm_np1_fr_goo_0.avi 1 
 Robin_and_the_magical_tea_pour_pour_u_cm_np1_fr_goo_0.avi 1 
@@ -88,7 +83,6 @@ Tea_in_Wudang_pour_u_nm_np1_fr_med_1.avi 1
 Tea_in_Wudang_pour_u_nm_np1_fr_med_2.avi 1 
 Tequila_Sunrise_pour_u_cm_np1_le_med_0.avi 1 
 Tequila_Sunrise_pour_u_cm_np1_le_med_1.avi 1 
-The_Pomegranate_Martini_pour_u_cm_np1_fr_med_1.avi 0 
 The_Pomegranate_Martini_pour_u_nm_np1_fr_med_0.avi 1 
 Traditional_Chinese_Tea_Ceremony_(Chinese)_pour_u_cm_np1_fr_med_0.avi 2 
 Traditional_Chinese_Tea_Ceremony_(Chinese)_pour_u_cm_np1_fr_med_1.avi 2 

@@ -1,12 +1,10 @@
 #2_Gum_chew_h_nm_np1_fr_med_0.avi 3 
-#2_Gum_chew_h_nm_np1_fr_med_1.avi 0 
 #2_Gum_chew_h_nm_np1_fr_med_2.avi 3 
 AMADEUS_chew_h_nm_np1_fr_goo_7.avi 3 
 Big_League_Chew_chew_h_nm_np1_fr_goo_0.avi 3 
 Big_League_Chew_chew_h_nm_np1_fr_goo_1.avi 3 
 Big_League_Chew_chew_h_nm_np1_fr_goo_2.avi 3 
 Blowing_Bubbles!_chew_h_nm_np1_fr_goo_2.avi 3 
-Blowing_Bubbles!_chew_h_nm_np1_fr_med_0.avi 0 
 Blowing_Bubbles!_chew_h_nm_np1_fr_med_1.avi 3 
 Bubble_Blowing_Bubble_Gum_chew_h_nm_np1_fr_bad_0.avi 1 
 Bubble_Blowing_Bubble_Gum_chew_h_nm_np1_fr_bad_1.avi 1 
@@ -38,7 +36,6 @@ Duble_Bubble_Gum_chew_h_cm_np1_fr_bad_2.avi 1
 Fun_Chewing_Gum!_chew_h_nm_np1_fr_med_0.avi 1 
 Fun_Chewing_Gum!_chew_h_nm_np1_fr_med_1.avi 1 
 Fun_Chewing_Gum!_chew_h_nm_np1_fr_med_2.avi 1 
-Fun_Chewing_Gum!_chew_h_nm_np2_fr_med_3.avi 0 
 Fun_Chewing_Gum!_chew_h_nm_np2_fr_med_4.avi 1 
 Gum_Chewing_Girl_chew_h_nm_np1_fr_med_0.avi 1 
 Gum_Chewing_Girl_chew_h_nm_np1_fr_med_1.avi 1 
@@ -52,11 +49,9 @@ Kaugummiblase_1_chew_h_cm_np1_le_med_2.avi 1
 LittleChildren_chew_h_nm_np1_fr_goo_7.avi 3 
 Loud_Chewing_chew_u_cm_np1_fr_med_0.avi 2 
 Loud_Chewing_chew_u_cm_np1_fr_med_1.avi 2 
-Loud_Chewing_chew_u_cm_np1_fr_med_2.avi 0 
 Massive_Bubble_Gum_Bubble_chew_h_nm_np1_le_goo_0.avi 1 
 Massive_Bubble_Gum_Bubble_chew_h_nm_np1_le_goo_1.avi 1 
 Massive_Bubble_Gum_Bubble_chew_h_nm_np1_le_goo_2.avi 1 
-Me_chewing_hubba_bubba_bubble_gum_chew_h_nm_np1_fr_bad_0.avi 0 
 Me_chewing_hubba_bubba_bubble_gum_chew_h_nm_np1_fr_bad_1.avi 2 
 Me_chewing_hubba_bubba_bubble_gum_chew_h_nm_np1_fr_bad_2.avi 2 
 Mr__Bubblegum_chew_h_nm_np1_fr_med_0.avi 1 
@@ -74,7 +69,6 @@ Sweet_Candy_Bubbles_chew_h_cm_np1_fr_med_2.avi 1
 Tara_Bush_blowing_bubbles_5_chew_h_nm_np1_fr_goo_0.avi 1 
 Tara_Bush_blowing_bubbles_5_chew_h_nm_np1_fr_goo_2.avi 1 
 Tara_Bush_blowing_bubbles_5_chew_h_nm_np1_fr_goo_3.avi 1 
-Tara_Bush_blowing_bubbles_5_chew_h_nm_np1_le_goo_1.avi 0 
 TheBoondockSaints_chew_h_nm_np1_fr_goo_48.avi 2 
 TheBoondockSaints_chew_u_cm_np1_le_med_35.avi 2 
 TheBoondockSaints_chew_u_nm_np1_fr_med_46.avi 2 
@@ -82,8 +76,6 @@ TheLittleShopofHorrors_chew_u_nm_np1_fr_med_8.avi 3
 Vid_Request-_Me_Blowing_Bubbles_-P_chew_h_nm_np1_fr_med_0.avi 2 
 Vid_Request-_Me_Blowing_Bubbles_-P_chew_h_nm_np1_fr_med_1.avi 2 
 Vid_Request-_Me_Blowing_Bubbles_-P_chew_h_nm_np1_fr_med_2.avi 2 
-Wanda_Su_and_niece__T__blowing_bubbles_chew_u_nm_np2_fr_med_0.avi 0 
-Wanda_Su_and_niece__T__blowing_bubbles_chew_u_nm_np2_fr_med_1.avi 0 
 Wanda_Su_and_niece__T__blowing_bubbles_chew_u_nm_np2_fr_med_2.avi 1 
 Wanda_Su_and_niece__T__blowing_bubbles_chew_u_nm_np2_le_med_3.avi 1 
 WeddingCrashers_chew_h_nm_np1_fr_goo_6.avi 1 
@@ -91,7 +83,6 @@ blondeandbubbles_chew_h_nm_np1_fr_goo_0.avi 2
 blondeandbubbles_chew_h_nm_np1_fr_goo_1.avi 2 
 chewing_bubble_gum_chew_h_cm_np1_ri_bad_2.avi 1 
 chewing_bubble_gum_chew_h_cm_np1_ri_med_0.avi 1 
-chewing_bubble_gum_chew_h_cm_np1_ri_med_1.avi 0 
 chewing_gum_1_chew_h_nm_np1_fr_goo_0.avi 2 
 chewing_gum_1_chew_h_nm_np1_fr_goo_1.avi 2 
 chewing_gum_1_chew_h_nm_np1_fr_goo_2.avi 2 

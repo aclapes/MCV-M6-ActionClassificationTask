@@ -3,7 +3,6 @@
 #122_Cleaning_Up_The_Beach_In_Chiba__Japan_pick_f_nm_np1_ri_bad_0.avi 3 
 AMADEUS_pick_u_nm_np1_fr_med_8.avi 2 
 AboutABoy_pick_h_nm_np1_le_goo_9.avi 2 
-BuriedTreasure_pick_u_cm_np1_le_goo_1.avi 0 
 Catch_Me_If_You_Can_pick_f_cm_np1_ri_med_5.avi 3 
 Clay_sBasketballSkillz_pick_f_nm_np1_ba_med_0.avi 3 
 Clay_sBasketballSkillz_pick_f_nm_np1_ri_med_8.avi 3 
@@ -26,7 +25,6 @@ Dollar_Prank_at_the_Rivertown_Mall_pick_f_nm_np1_fr_med_3.avi 1
 Dollar_Prank_at_the_Rivertown_Mall_pick_f_nm_np1_le_med_2.avi 1 
 Eco-Tex_picks_up_Trash_pick_f_cm_np1_ri_med_0.avi 1 
 EverythingisIlluminated_pick_u_cm_np1_ba_goo_3.avi 2 
-Fishing_For_People_pick_f_cm_np1_fr_med_3.avi 0 
 Fishing_For_People_pick_f_cm_np1_ri_med_2.avi 1 
 Fishing_For_People_pick_f_cm_np1_ri_med_5.avi 1 
 Fishing_For_People_pick_f_cm_np2_le_med_4.avi 1 
@@ -43,7 +41,6 @@ IamLegendII_pick_u_nm_np1_fr_bad_0.avi 2
 IamLegendII_pick_u_nm_np1_fr_med_1.avi 2 
 Juno_pick_u_cm_np1_le_bad_9.avi 1 
 Juno_pick_u_nm_np1_fr_goo_2.avi 1 
-M_ll_sammeln_pick_f_cm_np1_fr_bad_0.avi 0 
 Magic_Boys-_Der_Portmonai_Trick_pick_l_nm_np1_ri_med_0.avi 1 
 Mushroom_search_pick_f_cm_np2_le_med_0.avi 1 
 NH-__Open_Carry_Litter_Pickup_in__troubled__neighborhood_pick_f_nm_np1_le_med_0.avi 1 
@@ -89,18 +86,15 @@ Wallet_Trick_pick_f_cm_np2_fr_bad_1.avi 1
 Wallet_Trick_pick_f_cm_np4_ri_med_0.avi 1 
 Yep__I_m_picking_up_trash_today_pick_f_cm_np1_fr_med_1.avi 1 
 Yep__I_m_picking_up_trash_today_pick_f_cm_np1_ri_med_0.avi 1 
-americanthrift1_pick_u_cm_np1_fr_med_1.avi 0 
 americanthrift2_pick_u_cm_np1_ri_med_1.avi 1 
 americanthrift2_pick_u_nm_np1_ri_med_2.avi 1 
 garbage_men_pick_f_cm_np1_ri_med_0.avi 2 
 garbage_men_pick_f_cm_np1_ri_med_1.avi 2 
-garbage_men_pick_f_cm_np1_ri_med_2.avi 0 
 nameunknown256kb_pick_u_nm_np1_le_med_2.avi 1 
 pick_up_trash_says_yeti_pick_f_cm_np1_le_med_1.avi 2 
 pick_up_trash_says_yeti_pick_f_cm_np1_le_med_2.avi 2 
 pick_up_trash_says_yeti_pick_f_cm_np1_ri_med_0.avi 2 
 prelinger_LetsBeGo1953_pick_f_cm_np1_fr_med_8.avi 1 
-prelinger_LetsBeGo1953_pick_f_nm_np1_ri_med_12.avi 0 
 prelinger_TowardEm1954_pick_u_cm_np1_le_goo_5.avi 1 
 prelinger_they_grow_up_so_fast_1_pick_f_nm_np1_fr_med_10.avi 1 
 prelinger_they_grow_up_so_fast_1_pick_u_nm_np1_ri_med_1.avi 1 

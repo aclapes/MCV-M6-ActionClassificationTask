@@ -6,7 +6,6 @@ American_History_X_shoot_gun_u_nm_np1_fr_goo_49.avi 3
 Aplacetoshoot_shoot_gun_u_cm_np1_ba_med_3.avi 2 
 Aplacetoshoot_shoot_gun_u_cm_np1_le_med_0.avi 2 
 Aplacetoshoot_shoot_gun_u_cm_np1_le_med_1.avi 2 
-Aplacetoshoot_shoot_gun_u_cm_np1_le_med_2.avi 0 
 AprilshootinganMP5_shoot_gun_u_nm_np1_ri_med_0.avi 2 
 DefensivePistolShootingTechniques_shoot_gun_f_nm_np1_fr_med_0.avi 3 
 DefensivePistolShootingTechniques_shoot_gun_f_nm_np1_fr_med_1.avi 3 
@@ -18,7 +17,6 @@ Dual9mm_shoot_gun_u_cm_np1_ri_goo_0.avi 1
 Fastestguninthewest_shoot_gun_f_nm_np1_ri_med_0.avi 2 
 FirearmsTraining_shoot_gun_f_cm_np1_ri_med_0.avi 2 
 FirearmsTraining_shoot_gun_f_cm_np1_ri_med_1.avi 2 
-FirearmsTraining_shoot_gun_f_nm_np1_ri_med_7.avi 0 
 FirearmsTraining_shoot_gun_f_nm_np2_le_med_10.avi 2 
 FirearmsTraining_shoot_gun_u_cm_np1_ba_med_5.avi 2 
 FirearmsTraining_shoot_gun_u_cm_np1_ri_med_2.avi 2 
@@ -53,7 +51,6 @@ Italian_Job_2_shoot_gun_u_nm_np1_ri_med_1.avi 1
 MeShootin2_shoot_gun_u_nm_np1_ri_med_0.avi 2 
 MeShootin2_shoot_gun_u_nm_np1_ri_med_1.avi 2 
 MeShootin2_shoot_gun_u_nm_np1_ri_med_2.avi 2 
-Pirates_5_shoot_gun_h_nm_np1_le_goo_2.avi 0 
 Pirates_5_shoot_gun_u_nm_np1_fr_goo_4.avi 1 
 Shootingagunforthefirsttimeever_shoot_gun_u_cm_np1_ri_med_0.avi 1 
 Shootingagunforthefirsttimeever_shoot_gun_u_cm_np1_ri_med_1.avi 1 

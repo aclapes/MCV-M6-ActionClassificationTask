@@ -12,7 +12,6 @@ Ben_Hogan_Swing_golf_f_nm_np1_ri_med_1.avi 1
 Ben_Hogan_Swing_golf_f_nm_np1_ri_med_2.avi 1 
 Camilo_Villegas_Tee_Shot_golf_f_cm_np1_fr_goo_0.avi 3 
 Casie_Cathrea_golf_f_nm_np1_fr_med_0.avi 1 
-Charles_Barkley_Golf_Swing_golf_f_cm_np1_ba_med_0.avi 0 
 Charles_Barkley_Golfing_golf_f_cm_np1_fr_med_0.avi 1 
 Cobra_Golf_-_Camilo_Villegas_golf_f_cm_np1_ri_goo_0.avi 2 
 Cobra_Golf_-_Camilo_Villegas_golf_f_cm_np1_ri_goo_1.avi 2 
@@ -21,10 +20,8 @@ Dr__Feels_Golf_Wedge_Secret_golf_f_cm_np1_ri_med_0.avi 1
 Eric_Axley_golf_f_cm_np1_le_goo_0.avi 1 
 Ernie_Els_Swing__Big_easy!_golf_f_cm_np1_fr_med_0.avi 1 
 Ernie_Els_swing_close_up_golf_f_cm_np1_ri_goo_0.avi 1 
-Evian_Masters_Junior_Cup_Highlights_2009_golf_f_nm_np1_ba_goo_0.avi 0 
 Evian_Masters_Junior_Cup_Highlights_2009_golf_f_nm_np1_ba_goo_2.avi 2 
 Evian_Masters_Junior_Cup_Highlights_2009_golf_f_nm_np1_fr_goo_1.avi 2 
-Evian_Masters_Junior_Cup_Highlights_2009_golf_f_nm_np1_le_goo_4.avi 0 
 Evian_Masters_Junior_Cup_Highlights_2009_golf_f_nm_np1_ri_goo_3.avi 2 
 Finding_the_fairway_under_pressure_golf_f_cm_np1_ri_med_0.avi 2 
 Geoff_Ogilvy_golf_f_cm_np1_fr_goo_0.avi 1 
@@ -53,7 +50,6 @@ Jordan_Malinoff_and__Anthony_Kim_Practice_golf_f_cm_np1_ri_med_3.avi 1
 Jordan_Malinoff_and__Anthony_Kim_Practice_golf_f_cm_np1_ri_med_5.avi 1 
 Jordan_Malinoff_and__Anthony_Kim_Practice_golf_f_cm_np1_ri_med_6.avi 1 
 Jordan_Malinoff_and__Anthony_Kim_Practice_golf_f_cm_np1_ri_med_7.avi 1 
-Kevin_Na_s_Swing_golf_f_cm_np1_ri_goo_0.avi 0 
 Lorena_Ochoa_en_Acapulco_skins_golf_f_cm_np1_fr_med_0.avi 1 
 Lorena_Ochoa_et_Paula_Creamer_golf_f_cm_np1_le_med_0.avi 2 
 Lorena_Ochoa_et_Paula_Creamer_golf_f_cm_np1_le_med_1.avi 2 
@@ -95,7 +91,6 @@ Sergio_Garcia_golf_f_cm_np1_ri_med_1.avi 2
 Steve_Elkington_1995_PGA_golf_f_cm_np1_ri_med_0.avi 2 
 Steve_Elkington_golf_f_cm_np1_ri_med_0.avi 2 
 Tiger_Woods_AMAZING_Shots_golf_f_cm_np1_ri_med_0.avi 1 
-Tiger_Woods_Super_Drive_golf_f_nm_np1_ri_goo_0.avi 0 
 Tiger_Woods_smokes_a_drive_golf_f_cm_np1_ri_med_0.avi 1 
 bri_vega_golf_f_cm_np1_fr_med_0.avi 2 
 golf_golf_f_nm_np1_ri_goo_0.avi 2 

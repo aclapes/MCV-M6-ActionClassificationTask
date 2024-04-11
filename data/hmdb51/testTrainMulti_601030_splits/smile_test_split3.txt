@@ -24,7 +24,6 @@ Return_of_the_King_4_smile_h_nm_np1_fr_goo_4.avi 1
 SE7EN_SMILES_x3_smile_h_cm_np1_fr_goo_5.avi 2 
 SE7EN_SMILES_x3_smile_h_cm_np1_fr_goo_9.avi 2 
 SE7EN_SMILES_x3_smile_h_cm_np1_fr_med_0.avi 2 
-SE7EN_SMILES_x3_smile_h_cm_np1_fr_med_10.avi 0 
 SE7EN_SMILES_x3_smile_h_cm_np1_fr_med_3.avi 2 
 SE7EN_SMILES_x3_smile_h_nm_np1_fr_bad_7.avi 2 
 SE7EN_SMILES_x3_smile_h_nm_np1_fr_med_1.avi 2 
@@ -95,7 +94,6 @@ prelinger_LetsPlay1949_smile_h_nm_np1_le_goo_25.avi 1
 prelinger_LetsPlay1949_smile_u_nm_np1_fr_med_24.avi 1 
 prelinger_LetsPlay1949_smile_u_nm_np1_ri_med_21.avi 1 
 prelinger_they_grow_up_so_fast_1_smile_u_nm_np1_fr_med_0.avi 1 
-show_your_smile_-)_smile_h_nm_np1_fr_med_0.avi 0 
 showyoursmile_smile_h_nm_np1_fr_goo_0.avi 1 
 smile_collection_7_smile_h_nm_np1_fr_goo_0.avi 2 
 smile_collection_7_smile_h_nm_np1_fr_goo_1.avi 2 

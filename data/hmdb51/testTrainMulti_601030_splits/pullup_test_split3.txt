@@ -55,7 +55,6 @@ Girl_does_12_pull-ups_pullup_u_cm_np1_ba_med_0.avi 1
 Girl_does_12_pull-ups_pullup_u_cm_np1_ba_med_1.avi 1 
 Girl_does_12_pull-ups_pullup_u_cm_np1_ba_med_2.avi 1 
 How_to_do_pull-ups_Chin_ups_pullup_u_cm_np1_fr_bad_0.avi 1 
-How_to_do_pull-ups_Chin_ups_pullup_u_cm_np1_fr_bad_1.avi 0 
 How_to_do_pull-ups_Chin_ups_pullup_u_cm_np1_fr_bad_2.avi 1 
 Konstantinovs_55_pullups_pullup_u_cm_np1_ri_med_0.avi 2 
 Konstantinovs_55_pullups_pullup_u_cm_np1_ri_med_1.avi 2 
@@ -77,14 +76,12 @@ Proper_Way_to_Do_Pull_Ups_pullup_u_nm_np1_ri_goo_4.avi 1
 Pull-ups-_Nicole_Weeks_pullup_u_cm_np1_le_goo_0.avi 1 
 Pull-ups-_Nicole_Weeks_pullup_u_cm_np1_le_goo_1.avi 1 
 Pull-ups-_Nicole_Weeks_pullup_u_cm_np1_le_goo_2.avi 1 
-Pull-ups_+_Push_ups-_a_time-saving_workout_pullup_u_cm_np1_ri_med_0.avi 0 
 Pull-ups_+_Push_ups-_a_time-saving_workout_pullup_u_cm_np1_ri_med_1.avi 1 
 Pull-ups_+_Push_ups-_a_time-saving_workout_pullup_u_cm_np1_ri_med_2.avi 1 
 Pull_ups-_77_for_8_minutes_without_rest_pullup_u_cm_np1_fr_bad_0.avi 1 
 Pull_ups-_77_for_8_minutes_without_rest_pullup_u_cm_np1_fr_bad_1.avi 1 
 Pull_ups-_77_for_8_minutes_without_rest_pullup_u_cm_np1_fr_bad_2.avi 1 
 Random_Pull_Up_Exercises_pullup_f_nm_np1_ba_med_0.avi 1 
-Random_Pull_Up_Exercises_pullup_f_nm_np1_ba_med_1.avi 0 
 Random_Pull_Up_Exercises_pullup_f_nm_np1_fr_med_2.avi 1 
 Random_Pull_Up_Exercises_pullup_f_nm_np1_fr_med_3.avi 1 
 Strong_Girl_Gymnast_Does_20+_Pull_Ups_Chin_Up_marcusbondi_pullup_f_cm_np1_fr_med_0.avi 2 
@@ -95,7 +92,6 @@ Super_Training_Pull_Ups_pullup_f_cm_np1_ba_med_1.avi 2
 Super_Training_Pull_Ups_pullup_f_cm_np1_ba_med_2.avi 2 
 girl_pull_ups_fitness_exercise_pullups_pullup_f_cm_np1_fr_med_0.avi 1 
 girl_pull_ups_fitness_exercise_pullups_pullup_f_cm_np1_fr_med_1.avi 1 
-girl_pull_ups_fitness_exercise_pullups_pullup_f_cm_np1_fr_med_2.avi 0 
 pull_ups_pullup_u_nm_np1_ba_med_0.avi 2 
 pull_ups_pullup_u_nm_np1_ba_med_1.avi 2 
 pull_ups_pullup_u_nm_np1_ba_med_2.avi 2 

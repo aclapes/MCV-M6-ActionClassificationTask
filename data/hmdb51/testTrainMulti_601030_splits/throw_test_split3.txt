@@ -1,5 +1,4 @@
 20060723sfjffangelina_throw_u_cm_np1_ba_med_4.avi 2 
-2008-08-09GiantsGameDodgersPracticeClaytonKershaw_throw_f_cm_np1_fr_med_0.avi 0 
 2008-08-09GiantsGameDodgersPracticeClaytonKershaw_throw_f_cm_np1_fr_med_1.avi 3 
 2008-08-09GiantsGameDodgersPracticeClaytonKershaw_throw_f_cm_np1_fr_med_2.avi 3 
 APOCALYPTO_throw_f_nm_np1_fr_med_1.avi 2 
@@ -95,7 +94,6 @@ amazingballthrowingtricks_throw_f_cm_np1_fr_med_6.avi 2
 amazingballthrowingtricks_throw_f_cm_np1_ri_med_1.avi 2 
 amazingballthrowingtricks_throw_f_cm_np1_ri_med_2.avi 2 
 amazingballthrowingtricks_throw_f_cm_np1_ri_med_4.avi 2 
-amazingballthrowingtricks_throw_f_cm_np1_ri_med_5.avi 0 
 amazingballthrowingtricks_throw_f_nm_np1_ri_med_0.avi 2 
 amazingballthrowingtricks_throw_u_cm_np1_fr_med_3.avi 2 
 baseballpitchslowmotion_throw_f_nm_np1_fr_med_0.avi 1 

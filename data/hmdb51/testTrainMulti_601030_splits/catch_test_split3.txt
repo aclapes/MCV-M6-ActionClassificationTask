@@ -5,7 +5,6 @@ Ballfangen_catch_u_cm_np1_fr_goo_0.avi 3
 Ballfangen_catch_u_cm_np1_fr_goo_1.avi 3 
 Ballfangen_catch_u_cm_np1_fr_goo_2.avi 3 
 Behinderten_Sport_part_2_catch_f_cm_np1_fr_bad_0.avi 3 
-Behinderten_Sport_part_2_catch_f_cm_np1_ri_bad_1.avi 0 
 Faith_Rewarded_catch_f_cm_np1_fr_med_10.avi 3 
 Fangen_und_Werfen_catch_u_nm_np1_fr_bad_0.avi 3 
 Finding_Forrester_3_catch_f_nm_np2_ba_med_7.avi 2 
@@ -35,7 +34,6 @@ Goalkeeper_Training_Day_#_7_catch_f_cm_np1_ri_med_0.avi 1
 Goalkeeper_Training_Day_#_7_catch_f_cm_np1_ri_med_1.avi 1 
 Goalkeeper_Training_Day_#_7_catch_f_nm_np1_ri_bad_4.avi 1 
 Handball_Passtraining_in_der_Zweiergruppe_(1)_catch_f_cm_np1_le_bad_1.avi 3 
-Handball_Passtraining_in_der_Zweiergruppe_(1)_catch_f_cm_np1_le_med_0.avi 0 
 How_to_Pass_in_Basketball_catch_f_cm_np1_le_bad_0.avi 1 
 How_to_Play_Wide_Receiver_in_Football_-_How_to_Catch_a_High_Ball_in_Football_catch_f_nm_np1_ri_goo_0.avi 2 
 How_to_Play_Wide_Receiver_in_Football_-_How_to_Catch_a_High_Ball_in_Football_catch_f_nm_np1_ri_med_1.avi 2 

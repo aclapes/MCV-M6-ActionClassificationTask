@@ -37,8 +37,9 @@ def train(
         None
     """
     model.train()
-    loss_train_mean = statistics.RollingMean(window_size=len(train_loader))
     pbar = tqdm(train_loader, desc=description, total=len(train_loader))
+    loss_train_mean = statistics.RollingMean(window_size=len(train_loader))
+    hits = count = 0 # auxiliary variables for computing accuracy
     for batch in pbar:
         # Gather batch and move to device
         clips, labels = batch['clips'].to(device), batch['labels'].to(device)
@@ -52,7 +53,15 @@ def train(
         optimizer.zero_grad()
         # Update progress bar with metrics
         loss_iter = loss.item()
-        pbar.set_postfix(loss=loss_iter, loss_mean=loss_train_mean(loss_iter))
+        hits_iter = torch.eq(outputs.argmax(dim=1), labels).sum().item()
+        hits += hits_iter
+        count += len(labels)
+        pbar.set_postfix(
+            loss=loss_iter,
+            loss_mean=loss_train_mean(loss_iter),
+            acc=(float(hits_iter) / len(labels)),
+            acc_mean=(float(hits) / count)
+        )
 
 
 def evaluate(
@@ -78,7 +87,7 @@ def evaluate(
     model.eval()
     pbar = tqdm(valid_loader, desc=description, total=len(valid_loader))
     loss_valid_mean = statistics.RollingMean(window_size=len(valid_loader))
-    hits = count = 0
+    hits = count = 0 # auxiliary variables for computing accuracy
     for batch in pbar:
         # Gather batch and move to device
         clips, labels = batch['clips'].to(device), batch['labels'].to(device)
@@ -107,7 +116,7 @@ def create_datasets(
         split: HMDB51Dataset.Split,
         clip_length: int,
         crop_size: int,
-        temporal_subsampling: int
+        temporal_stride: int
 ) -> Dict[str, HMDB51Dataset]:
     """
     Creates datasets for training, validation, and testing.
@@ -118,7 +127,7 @@ def create_datasets(
         split (HMDB51Dataset.Split): Dataset split (TEST_ON_SPLIT_1, TEST_ON_SPLIT_2, TEST_ON_SPLIT_3).
         clip_length (int): Number of frames of the clips.
         crop_size (int): Size of spatial crops (squares).
-        temporal_subsampling (int): Receptive field of the model will be (clip_length * temporal_subsampling) / FPS.
+        temporal_stride (int): Receptive field of the model will be (clip_length * temporal_stride) / FPS.
 
     Returns:
         Dict[str, HMDB51Dataset]: A dictionary containing the datasets for training, validation, and testing.
@@ -132,7 +141,7 @@ def create_datasets(
             regime,
             clip_length,
             crop_size,
-            temporal_subsampling
+            temporal_stride
         )
     
     return datasets
@@ -232,13 +241,13 @@ if __name__ == "__main__":
                         help='Directory containing video files')
     parser.add_argument('--annotations-dir', type=str, default="data/hmdb51/testTrainMulti_601030_splits",
                         help='Directory containing annotation files')
-    parser.add_argument('--clip-length', type=int, default=16,
+    parser.add_argument('--clip-length', type=int, default=4,
                         help='Number of frames of the clips')
-    parser.add_argument('--crop-size', type=int, default=256,
+    parser.add_argument('--crop-size', type=int, default=182,
                         help='Size of spatial crops (squares)')
-    parser.add_argument('--temporal-subsampling', type=int, default=2,
-                        help='Receptive field of the model will be (clip_length * temporal_subsampling) / FPS')
-    parser.add_argument('--model-name', type=str, default='x3d_s',
+    parser.add_argument('--temporal-stride', type=int, default=12,
+                        help='Receptive field of the model will be (clip_length * temporal_stride) / FPS')
+    parser.add_argument('--model-name', type=str, default='x3d_xs',
                         help='Model name as defined in models/model_creator.py')
     parser.add_argument('--load-pretrain', action='store_true', default=False,
                     help='Load pretrained weights for the model (if available)')
@@ -248,9 +257,9 @@ if __name__ == "__main__":
                         help='Learning rate')
     parser.add_argument('--epochs', type=int, default=50,
                         help='Number of epochs')
-    parser.add_argument('--batch-size', type=int, default=4,
+    parser.add_argument('--batch-size', type=int, default=16,
                         help='Batch size for the training data loader')
-    parser.add_argument('--batch-size-eval', type=int, default=4,
+    parser.add_argument('--batch-size-eval', type=int, default=16,
                         help='Batch size for the evaluation data loader')
     parser.add_argument('--validate-every', type=int, default=5,
                         help='Number of epochs after which to validate the model')
@@ -268,7 +277,7 @@ if __name__ == "__main__":
         split=HMDB51Dataset.Split.TEST_ON_SPLIT_1, # hardcoded
         clip_length=args.clip_length,
         crop_size=args.crop_size,
-        temporal_subsampling=args.temporal_subsampling
+        temporal_stride=args.temporal_stride
     )
 
     # Create data loaders
@@ -298,6 +307,7 @@ if __name__ == "__main__":
         train(model, loaders['training'], optimizer, loss_fn, args.device, description=description)
 
     # Testing
+    evaluate(model, loaders['validation'], loss_fn, args.device, description=f"Validation [Final]")
     evaluate(model, loaders['testing'], loss_fn, args.device, description=f"Testing")
 
     exit()

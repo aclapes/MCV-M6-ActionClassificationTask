@@ -2,7 +2,7 @@
 
 ## Download the dataset
 
-0. Before downloading any data, install the `unrar` and `ffmpeg` packages with your package manager. In Debian-based distros (e.g., Ubuntu), that is done with the following command: `sudo apt install unrar ffmpeg`.
+0. Before downloading any data, install the `unrar` and `ffmpeg` packages with your package manager. In Debian-based distros (e.g., Ubuntu), this is done with the following command: `sudo apt install unrar ffmpeg`.
 
 1. Now, download the videos from the authors' website and decompress them with `unrar`:
 
@@ -17,7 +17,7 @@
         $ ls videos
     ```
 
-You should see 51 folders, one for each action category (`brush_hair`, `cartwheel`, etc), containing video data (`.avi` files):
+You should be seeing 51 folders, one for each action category (`brush_hair`, `cartwheel`, etc) containing video data (`.avi` files):
 
     ```
         videos/
@@ -32,18 +32,18 @@ You should see 51 folders, one for each action category (`brush_hair`, `cartwhee
         |____ ...
     ```
 
-For the later training, we'll need the videos converted to frames. This way we don't have to decompress the videos repeatedly every time we want to sample a clip from a video in batch-training.
+However, for our training procedure, it'll be much more convenient having the videos converted to frames first. Frames are faster to read than video and allow selective access depending on how we decide to sample clips.
 
 ## Data preparation
 
-We will extract the frames in a separate directory, namely `frames`. Then:
+To extract the frames in a directory named `frames`, we can run this long one-line command:
 
     ```bash
     # Make sure you are in the same directory that contains the videos/ folder
     $ find videos -name "*.avi" -print0 | xargs -0 -I {} sh -c 'original="{}"; modified=$(echo "$original" | sed -e "s|videos|frames|" | sed -e "s|\.[^.]*$||"); mkdir -p $modified; ffmpeg -i $original -loglevel error $modified/frame%05d.jpg'
     ```
     
-If run correctly, such long command will create the `frames/` directory with the same structure as `videos/`, but replacing each video file by a directory containing the frames (in .jpg format). It might take from 30' to an hour to extract the frames. 
+If run correctly, such command will create  `frames/` directory with the same structure as `videos/`, but replacing each video file by a directory containing the frames (in .jpg format). It might take from 30' to an hour to extract the frames (depending on your CPU).
 
 Graphically:
 
@@ -69,23 +69,21 @@ Graphically:
 
 ## Custom groundtruth
 
-Do not download and use the groundtruth annotations from the authors' webpage, as we will be a custom version of them that you find in `data/hmbd51/testTrainMulti_601030_splits`.
+Do not download and use the groundtruth annotations from the authors' webpage, as we will be using a modified version that you'll find in `data/hmbd51/testTrainMulti_601030_splits` directory of this same repository.
 
-Differently from the original groundtruth, we will reserve a fixed set of training videos for validation. Therefore, instead of being 70% training and 30% testing data, we will do 60% training, 10% validation, and 30% testing.
+Differently from the original groundtruth, we will reserve part of the training videos for validation. In particular, instead of having 70% training and 30% testing data, we will have 60% training, 10% validation, and 30% testing.
 
-Take into account also that HMDB51 was thought to be evaluated in 3-fold cross validation. This means having 3 different train-test partitions, namely split1, split2, and split3. If you check the provided annotations you'll see a file per action category and split (i.e, `<action_label>_test_split<1, 2, or 3>.txt`). However, we will focus on split1 only (ignore split2 and split3 files).
-
-Go and examine any `<action_label>_test_split1.txt` file. As you'll see, there's a line per video with the video name followed by an integer that represents the train-test-validation partition for this particular split. Concretely, 1 indicates this is a training video, 2 for testing, and 3 for validation.
+Then, just take into account that HMDB51 was thought to be evaluated in 3-fold cross validation. So you will see 3 different splits, namely split1, split2, and split3. In the provided annotations, this splits are done in a separate file for each action label (i.e, `<action_label>_test_split<1, 2, or 3>.txt`). However, we will focus on split1 only (ignore split2 and split3 files). Go and examine any `<action_label>_test_split1.txt` file and you'll find there's a line per video. Each line has the video name followed by an integer that represents the partition (train = 1, validation = 3 or test = 2) for this particular split.
 
 ## Run the baseline code
 
-0. You'll need to install the required Python dependencies first. These are in the `requirements.txt` file. Assuming you are using PIP, you can just run:
+0. You'll also need to install the required Python dependencies. These are in the `requirements.txt` file. Assuming you are using PIP, you can then just run:
 
     ```bash
     $ pip3 install -r requirements.txt
     ```
 
-1. The baseline can then be run executing the `src/train.py` script, which expects one positional argument (the directory of the frames created before) and accept other multiple arguments (or options):
+1. Finally, the baseline can be run executing the `src/train.py` script, which expects one positional argument (the directory containing the frames that we've created before), but accepts other multiple arguments:
 
     ```
     $ python3 src/train.py --help
@@ -133,4 +131,6 @@ Go and examine any `<action_label>_test_split1.txt` file. As you'll see, there's
         --device DEVICE       Device to use for training (cuda or cpu)
     ```
 
-If not specified, default values are taken. Check the implementation for that.
+If not specified, default values should allow you to run the script without issues.
+
+Check the implementation to understand the different parts of the code.

@@ -54,7 +54,7 @@ class HMDB51Dataset(Dataset):
         regime: Regime, 
         clip_length: int, 
         crop_size: int, 
-        temporal_subsampling: int
+        temporal_stride: int
     ) -> None:
         """
         Initialize HMDB51 dataset.
@@ -67,7 +67,7 @@ class HMDB51Dataset(Dataset):
             split (Splits): Dataset split (TEST_ON_SPLIT_1, TEST_ON_SPLIT_2, TEST_ON_SPLIT_3).
             clip_length (int): Number of frames of the clips.
             crop_size (int): Size of spatial crops (squares).
-            temporal_subsampling (int): Receptive field of the model will be (clip_length * temporal_subsampling) / FPS.
+            temporal_stride (int): Receptive field of the model will be (clip_length * temporal_stride) / FPS.
         """
         self.videos_dir = videos_dir
         self.annotations_dir = annotations_dir
@@ -75,7 +75,7 @@ class HMDB51Dataset(Dataset):
         self.regime = regime
         self.clip_length = clip_length
         self.crop_size = crop_size
-        self.temporal_subsampling = temporal_subsampling
+        self.temporal_stride = temporal_stride
 
         self.annotation = self._read_annotation()
         self.transform = self._create_transform()
@@ -169,17 +169,17 @@ class HMDB51Dataset(Dataset):
         frame_paths = sorted(glob(os.path.join(escape(video_path), "*.jpg"))) # get sorted frame paths
         video_len = len(frame_paths)
 
-        if video_len <= self.clip_length * self.temporal_subsampling:
+        if video_len <= self.clip_length * self.temporal_stride:
             # Not enough frames to create the clip
             clip_begin, clip_end = 0, video_len
         else:
             # Randomly select a clip from the video with the desired length (start and end frames are inclusive)
-            clip_begin = random.randint(0, max(video_len - self.clip_length * self.temporal_subsampling, 0))
-            clip_end = clip_begin + self.clip_length * self.temporal_subsampling
+            clip_begin = random.randint(0, max(video_len - self.clip_length * self.temporal_stride, 0))
+            clip_end = clip_begin + self.clip_length * self.temporal_stride
 
         # Read frames from the video with the desired temporal subsampling
         video = None
-        for i, path in enumerate(frame_paths[clip_begin:clip_end:self.temporal_subsampling]):
+        for i, path in enumerate(frame_paths[clip_begin:clip_end:self.temporal_stride]):
             frame = read_image(path)  # (C, H, W)
             if video is None:
                 video = torch.zeros((self.clip_length, 3, frame.shape[1], frame.shape[2]), dtype=torch.uint8)

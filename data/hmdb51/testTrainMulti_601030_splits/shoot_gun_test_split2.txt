@@ -7,7 +7,6 @@ Aplacetoshoot_shoot_gun_u_cm_np1_ba_med_3.avi 3
 Aplacetoshoot_shoot_gun_u_cm_np1_le_med_0.avi 3 
 Aplacetoshoot_shoot_gun_u_cm_np1_le_med_1.avi 3 
 Aplacetoshoot_shoot_gun_u_cm_np1_le_med_2.avi 3 
-AprilshootinganMP5_shoot_gun_u_nm_np1_ri_med_0.avi 0 
 DefensivePistolShootingTechniques_shoot_gun_f_nm_np1_fr_med_0.avi 1 
 DefensivePistolShootingTechniques_shoot_gun_f_nm_np1_fr_med_1.avi 1 
 DefensivePistolShootingTechniques_shoot_gun_f_nm_np1_fr_med_3.avi 1 
@@ -43,7 +42,6 @@ Glory_shoot_gun_u_nm_np1_fr_med_48.avi 1
 Glory_shoot_gun_u_nm_np1_le_med_45.avi 1 
 Glory_shoot_gun_u_nm_np1_le_med_47.avi 1 
 Glory_shoot_gun_u_nm_np2_le_med_57.avi 1 
-Hip_Firing_the_SAW_shoot_gun_u_cm_np1_ba_med_0.avi 0 
 Hip_Firing_the_SAW_shoot_gun_u_cm_np1_ba_med_1.avi 1 
 Hip_Firing_the_SAW_shoot_gun_u_cm_np1_ba_med_2.avi 1 
 Italian_Job_1_shoot_gun_u_cm_np1_fr_med_4.avi 2 
@@ -99,5 +97,4 @@ shooting_shoot_gun_u_nm_np1_le_med_3.avi 2
 shooting_shoot_gun_u_nm_np1_le_med_4.avi 2 
 shooting_shoot_gun_u_nm_np1_le_med_5.avi 2 
 shooting_shoot_gun_u_nm_np1_le_med_6.avi 2 
-shooting_shoot_gun_u_nm_np1_le_med_7.avi 0 
 shooting_shoot_gun_u_nm_np1_le_med_8.avi 2 

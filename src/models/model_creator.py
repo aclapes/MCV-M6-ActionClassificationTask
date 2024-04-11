@@ -4,13 +4,13 @@ import torch
 import torch.nn as nn
 
 def create(model_name: str, load_pretrain: bool, num_classes: int) -> nn.Module:
-    if model_name == 'x3d_s':
-        return create_x3d_s(load_pretrain, num_classes)
+    if model_name == 'x3d_xs':
+        return create_x3d_xs(load_pretrain, num_classes)
     else:
         raise ValueError(f"Model {model_name} not supported")
 
-def create_x3d_s(load_pretrain, num_classes):
-    model = torch.hub.load('facebookresearch/pytorchvideo', 'x3d_s', pretrained=load_pretrain)
+def create_x3d_xs(load_pretrain, num_classes):
+    model = torch.hub.load('facebookresearch/pytorchvideo', 'x3d_xs', pretrained=load_pretrain)
     model.blocks[5].proj = nn.Identity()
     return nn.Sequential(
         model,

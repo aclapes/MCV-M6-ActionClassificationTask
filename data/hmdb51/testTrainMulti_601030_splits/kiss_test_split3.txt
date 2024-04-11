@@ -24,7 +24,6 @@ BestKisses_kiss_u_cm_np2_ri_med_9.avi 1
 BestKisses_kiss_u_nm_np2_fr_med_4.avi 1 
 BestKisses_kiss_u_nm_np2_ri_med_12.avi 1 
 BestKissesfromPeriodDramasKissingYou_kiss_h_cm_np2_le_goo_0.avi 3 
-Best_Kisses_in_TV_Movies_1_3_kiss_h_cm_np2_le_goo_1.avi 0 
 Best_Kisses_in_TV_Movies_1_3_kiss_h_cm_np2_le_goo_4.avi 2 
 Best_Kisses_in_TV_Movies_1_3_kiss_h_nm_np2_le_goo_0.avi 2 
 Best_Kisses_in_TV_Movies_1_3_kiss_h_nm_np2_le_goo_2.avi 2 
@@ -40,7 +39,6 @@ Best_kisses_kiss_h_cm_np2_le_goo_10.avi 2
 Best_kisses_kiss_h_cm_np2_le_goo_2.avi 2 
 Best_kisses_kiss_h_cm_np2_le_goo_6.avi 2 
 Best_kisses_kiss_h_cm_np2_le_goo_7.avi 2 
-Best_kisses_kiss_h_cm_np2_le_goo_8.avi 0 
 Best_kisses_kiss_h_nm_np2_le_goo_3.avi 2 
 Best_kisses_kiss_h_nm_np2_le_goo_5.avi 2 
 Best_kisses_kiss_u_cm_np2_le_goo_4.avi 2 

@@ -82,7 +82,6 @@ Torwarttraining_catch_f_cm_np1_ba_bad_9.avi 1
 Torwarttraining_catch_f_cm_np1_le_bad_11.avi 1 
 Torwarttraining_catch_f_cm_np1_le_bad_3.avi 1 
 Torwarttraining_catch_f_cm_np1_le_bad_5.avi 1 
-Torwarttraining_catch_u_cm_np1_fr_bad_4.avi 0 
 Torwarttraining_catch_u_cm_np1_le_bad_6.avi 1 
 Torwarttraining_catch_u_cm_np1_le_bad_7.avi 1 
 Torwarttraining_catch_u_cm_np1_ri_med_0.avi 1 
@@ -91,7 +90,6 @@ Torwarttraining_catch_u_cm_np1_ri_med_2.avi 1
 torwart_de-Camp_2009-_Training_hoher_B_lle_mit_Airbodies_catch_f_cm_np1_ba_bad_1.avi 2 
 torwart_de-Camp_2009-_Training_hoher_B_lle_mit_Airbodies_catch_f_cm_np1_ba_bad_4.avi 2 
 torwart_de-Camp_2009-_Training_hoher_B_lle_mit_Airbodies_catch_f_cm_np1_fr_bad_0.avi 2 
-torwart_de-Camp_2009-_Training_hoher_B_lle_mit_Airbodies_catch_f_cm_np1_fr_bad_2.avi 0 
 torwart_de-Camp_2009-_Training_hoher_B_lle_mit_Airbodies_catch_f_cm_np1_fr_bad_3.avi 2 
 torwart_de-Camp_2009_-_Hohe_B_lle_catch_f_cm_np1_ba_med_0.avi 1 
 torwart_de-Camp_2009_-_Hohe_B_lle_catch_f_cm_np1_ba_med_1.avi 1 
