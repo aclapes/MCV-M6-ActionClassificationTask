@@ -40,7 +40,7 @@ To extract the frames in a directory named `frames`, we can run this long one-li
 
     ```bash
     # Make sure you are in the same directory that contains the videos/ folder
-    $ find videos -name "*.avi" -print0 | xargs -0 -I {} sh -c 'original="{}"; modified=$(echo "$original" | sed -e "s|videos|frames|" | sed -e "s|\.[^.]*$||"); mkdir -p $modified; ffmpeg -i $original -loglevel error $modified/frame%05d.jpg'
+    $ find videos -name "*.avi" -print0 | xargs -0 -I {} sh -c 'original="{}"; modified=$(echo "$original" | sed -e "s|videos|frames|" | sed -e "s|\.[^.]*$||"); mkdir -p $modified; ffmpeg -i $original -q:v 1 -loglevel error $modified/frame%05d.jpg'
     ```
     
 If run correctly, such command will create  `frames/` directory with the same structure as `videos/`, but replacing each video file by a directory containing the frames (in .jpg format). It might take from 30' to an hour to extract the frames (depending on your CPU).
